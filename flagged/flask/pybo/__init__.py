@@ -6,6 +6,7 @@ from flaskext.markdown import Markdown
 
 import config
 # 주석 1
+#주석 222
 naming_convention = {
     "ix": 'ix_%(column_0_label)s',
     "uq": "uq_%(table_name)s_%(column_0_name)s",
